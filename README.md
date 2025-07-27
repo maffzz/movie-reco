@@ -3,7 +3,7 @@
 una app simple y bonita que te recomienda una de mis pelis favs  
 puedes visitarla aquí 👉 [https://movie-reco-jet.vercel.app/](https://movie-reco-jet.vercel.app/)  
 
-cada vez que la actualizo es porque tengo una comfort movie ☁️
+cada vez que la actualizo es porque tengo una nueva comfort movie ☁️
 
 ---
 
