@@ -13,7 +13,7 @@ function App() {
   const getRandomMovie = async () => {
     setLoading(true);
     try {
-      const res = await axios.get("http://localhost:8000/random-movie");
+      const res = await axios.get("https://movie-reco-llmk.onrender.com/random-movie");
       setMovie(res.data);} 
     catch (err) {
       alert("❌ error al obtener película");}
